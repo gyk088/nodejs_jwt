@@ -1,8 +1,6 @@
 ## Инструкция по использованию
 
-Для запуска приложения необходимо создать файл:
-    .env на основании .env.example
-    /install/config/config.json на основании /install/config/config.json.example
+Для запуска приложения необходимо создать файлы `.env` на основании `.env.example` и `/install/config/config.json` на основании `/install/config/config.json.example`
 
 Установка рабочего окружения:
 
